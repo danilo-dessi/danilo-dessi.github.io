@@ -30,9 +30,13 @@ Currently, I am looking for a post-doc position in Europe.
 
 ## Research Interests
 - Machine Learning
+
 - Semantic Web
+
 - Sentiment Analysis
+
 - Text Mining
+
 - Knowledge Graphs
 
 
