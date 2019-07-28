@@ -209,27 +209,24 @@ body:hover .visually-hidden button {
 
   .fa-user-graduate{
 	color: #c71e00;
+        margin-right:0.5em;
    }
    
    .fa-address-card{
 	color: #ff854d;
+        margin-right:0.5em;
    }
    
    .fa-google,
    .fa-envelope{
 	color: #ffa200;
+        margin-right:0.5em;
    }
 
    .fa-graduation-cap{
 	color: #319101;
+        margin-right:0.5em;
    }
-
-
-
-
-
-	
-	
 
   .fa-behance,
   .fa-behance-square {
@@ -263,6 +260,7 @@ body:hover .visually-hidden button {
   .fa-github-alt,
   .fa-github-square {
     color: $github-color;
+    margin-right:0.5em;
   }
 
   .fa-gitlab {
@@ -281,6 +279,7 @@ body:hover .visually-hidden button {
   .fa-linkedin,
   .fa-linkedin-in {
     color: $linkedin-color;
+    margin-right:0.5em;
   }
 
   .fa-mastodon,
