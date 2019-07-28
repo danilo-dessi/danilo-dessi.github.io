@@ -4,6 +4,7 @@ author_profile: true
 title: ""
 ---
 <meta name="google-site-verification" content="_jJONKzq3pQMdpU4VFb17P3H8lB2-DuO73UwR7BaXt0" />
+
 ## About me
 
 I am Danilo from [Zeddiani](https://goo.gl/maps/FP2gppLAMGmvkLBN7), a small village in the wonderful [Sardinia](https://goo.gl/maps/uMkwRB2PYKUQZ3vC8).
