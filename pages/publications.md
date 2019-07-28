@@ -14,7 +14,7 @@ title: Publications
 
 
 
-### Conference/Workshop Proceeedings
+### Conference/Workshop Proceedings
 
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Mining Scholarly Data for Fine-Grained Knowledge Graph Construction.**](http://ceur-ws.org/Vol-2377/paper_3.pdf) In CEUR Workshop Proceedings (Vol. 2377, pp. 21-30).
 
