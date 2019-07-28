@@ -115,7 +115,7 @@ author:
   email            :
   links            :
     - label        : " Gmail"
-      icon         : "fa fa-google"
+      icon         : "fab fa-google"
       url          : "mailto:danilodessi92@gmail.com"
     - label        : " Unica Email"
       icon         : "fas fa-envelope"
