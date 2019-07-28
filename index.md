@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: ""
 ---
+<meta name="google-site-verification" content="_jJONKzq3pQMdpU4VFb17P3H8lB2-DuO73UwR7BaXt0" />
 
 ## About me
 
