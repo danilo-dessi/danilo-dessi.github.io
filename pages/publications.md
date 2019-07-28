@@ -1,0 +1,48 @@
+---
+layout: single
+author_profile: true
+permalink: /publications/
+title: Publications
+---
+
+### Journals
+- **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Bridging learning analytics and Cognitive Computing for Big Data classification in micro-learning video collections.**](https://www.sciencedirect.com/science/article/pii/S0747563218301092) Computers in Human Behavior, 92, (pp. 468-477). 
+
+- **Dessì, D.**, Cirrone, J., Reforgiato Recupero, D., & Shasha, D. (2018). [**SuperNoder: a tool to discover over-represented modular structures in networks.**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2350-8) BMC Bioinformatics, 19, 318. 
+
+- Fenu, G., Pau, P. L., & **Dessì, D.** (2017). [**Functional models and extending strategies for ecological networks.**](https://link.springer.com/article/10.1007/s41109-017-0032-5) Applied Network Science 2.1:10.
+
+
+
+### Conference/Workshop Proceeedings
+
+- Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Mining Scholarly Data for Fine-Grained Knowledge Graph Construction.**](http://ceur-ws.org/Vol-2377/paper_3.pdf) In CEUR Workshop Proceedings (Vol. 2377, pp. 21-30).
+
+- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., & Reforgiato Recupero, D. (2018). [**Analisi Emozionale di recensioni di corsi online basata su Deep Learning e Word Embeddings.**](https://www.garr.it/it/chi-siamo/documenti/selected-papers/selected-papers-conferenza-2018/4712-selected-papers-conferenza-2018-16-dessi) In Conferenza GARR 2018. (in Italian)
+
+- **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2018). [**COCO: Semantic-Enriched Collection of Online Courses at Scale with Experimental Use Cases.**](https://link.springer.com/chapter/10.1007/978-3-319-77712-2_133)  In World Conference on Information Systems and Technologies (pp. 1386-1396).
+
+ - **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2017). [**Exploiting Cognitive Computing and Frame Semantic Features for Biomedical Document Clustering.**](http://ceur-ws.org/Vol-1948/paper3.pdf) SeWeBMeDA@ESWC 14th: (pp. 20-34). 
+
+- Fenu, G., Pau, P. L., & **Dessì, D.** (2016). [**Modeling and Extending Ecological Networks Using Land Similarity.**](https://link.springer.com/chapter/10.1007/978-3-319-50901-3_56) In International Workshop on Complex Networks and their Applications (pp. 709-718). Springer.
+
+
+### Posters&Demos
+- Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). **Parsing Natural Language Sentences in Robot Actions.** Accepted at the Poster&Demos session of ISWC 18<sup>th</sup>. (*online paper is not available yet, if you are interested please contact me.*)
+
+- Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). **Mining Scholarly Publications for Scientific Knowledge Graph Construction.** Presented at: ESWC 16th conference. (*online paper is not available yet, if you are interested please contact me.*)
+
+- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Evaluating neural word embeddings created from online course reviews for sentiment analysis.**](https://dl.acm.org/citation.cfm?id=3297280.3297620) In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (pp. 2124-2127). ACM. 
+
+ - **Dessì, D.**, Fenu, G., Marras, M. & Reforgiato Recupero, D. (2017). [**Leveraging Cognitive Computing for Multi-Class Classification of E-Learning Videos.**](https://link.springer.com/chapter/10.1007/978-3-319-70407-4_5) ESWC 14th (pp. 21-25). Springer.
+
+
+### Book Chapters
+- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., Reforgiato, D. (2019) **Deep Learning Adaptation with Word Embeddings for Sentiment Analysis on Online Course Reviews**. Accepted in Deep Learning based Approaches for Sentiment Analysis book. (*online paper is not available yet, if you are interested please contact me.*)
+
+- **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2019). [**A Recommender System of Medical Reports Leveraging Cognitive Computing and Frame Semantics.**](https://link.springer.com/chapter/10.1007/978-3-319-94030-4_2) In Machine Learning Paradigms (pp. 7-30).
+
+
+
+
+
