@@ -27,7 +27,7 @@ During my Ph.D. studies, I had the opportunity to visit many research centers ar
 I was also visiting student of the Professor [Enrico Motta](http://people.kmi.open.ac.uk/motta/) at the Knowledge Media Institute of the Open University from September to December 2018. From January 2019 to April 2019, I was visiting student at the LIPN in Paris under the supervision of Professor [Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/). During these periods, I worked on text mining techniques that exploit both Machine Learning and Semantic Web technologies for extracting knowledge from scientific literature in order to build a scientific knowledge graph. This work is currently my main research topic. 
 
 Currently, I am looking for a post-doc position in Europe.
-
+ 
 ## Research Interests
 - Machine Learning
 
