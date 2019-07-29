@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Danilo Dessì"
 description              : ""
-url                      : "https://danilodes.github.io"
+url                      : "https://danilo-dessi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://danilodes.github.io"
+repository               : "https://danilo-dessi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/myphoto.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
