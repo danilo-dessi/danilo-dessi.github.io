@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /activities/
-title: Activities
+permalink: /collaborations/
+title: Collaborations
 ---
 
 
