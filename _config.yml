@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Danilo Dessì"
+title                    : "Danilo Dessì | MSc"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Danilo Dessì"
@@ -66,9 +66,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : google # lunr (default), algolia, google
+search                   : false # true, false (default)
+search_full_content      : false # true, false (default)
+search_provider          : #google # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME

@@ -41,7 +41,7 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - [**Diego Reforgiato Recupero**](http://people.unica.it/diegoreforgiato/), Associate Professor at the University of Cagliari (Italy).
 
-- [**Dennis Shasha**](https://cs.nyu.edu/shasha/), Full Professor at the Courant Institute of Mathematical Science of the New York University (U.S.A.).
+- [**Dennis Shasha**](https://cs.nyu.edu/shasha/), Full Professor at the Courant Institute of Mathematical Sciences of the New York University (U.S.A.).
 
 
 
