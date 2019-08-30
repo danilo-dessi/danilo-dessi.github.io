@@ -50,7 +50,7 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - MDPI Future Internet Journal, [Semantic Web Technologies for Sentiment Analysis](https://www.mdpi.com/journal/futureinternet/special_issues/Sentiment_Analysis) special issue (reviewer).
 
-- [Semantics 2019 Conference](https://2019.semantics.cc/) (reviewer)
+- [Semantics 2019](https://2019.semantics.cc/) (reviewer)
 
 - [Clic-it 2019](http://clic2019.di.uniba.it/comitato.html) (reviewer and program commitee)
 
