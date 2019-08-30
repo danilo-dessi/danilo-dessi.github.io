@@ -16,6 +16,8 @@ title: Publications
 
 ### Conference/Workshop Proceedings
 
+- Reforgiato Recupero, D., **Dessì, D.**, Concas, E. (2019). **A Flexible and Scalable Architecture for Human-Robot Interaction.** Accepted at the European Conference on Ambient Intelligence. (*online paper is not available yet, if you are interested please contact me.*)
+
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Mining Scholarly Data for Fine-Grained Knowledge Graph Construction.**](http://ceur-ws.org/Vol-2377/paper_3.pdf) In CEUR Workshop Proceedings (Vol. 2377, pp. 21-30).
 
 - **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., & Reforgiato Recupero, D. (2018). [**Analisi Emozionale di recensioni di corsi online basata su Deep Learning e Word Embeddings.**](https://www.garr.it/it/chi-siamo/documenti/selected-papers/selected-papers-conferenza-2018/4712-selected-papers-conferenza-2018-16-dessi) In Conferenza GARR 2018. (in Italian)

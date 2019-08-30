@@ -44,6 +44,26 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 - [**Dennis Shasha**](https://cs.nyu.edu/shasha/), Full Professor at the Courant Institute of Mathematical Sciences of the New York University (U.S.A.).
 
 
+## Reviewing activity for International Conferences and Journals
+
+- SAC 2020 [Knowledge and Language Processing](https://klp.fbk.eu/index.html) track (reviewer and program commitee).
+
+- MDPI Future Internet Journal, [Semantic Web Technologies for Sentiment Analysis](https://www.mdpi.com/journal/futureinternet/special_issues/Sentiment_Analysis) special issue (reviewer).
+
+- [Semantics 2019 Conference](https://2019.semantics.cc/) (reviewer)
+
+- [Clic-it 2019](http://clic2019.di.uniba.it/comitato.html) (reviewer and program commitee)
+
+- SAC 2019 [Knowledge and Language Processing](https://klp.fbk.eu/index.html) track (reviewer and program commitee)
+
+- [DL4KG](https://alammehwish.github.io/dl4kg-eswc/) 2019 workshop (reviewer and program commitee)
+
+- [EMSASW](http://www.maurodragoni.com/research/opinionmining/events/) 2018 workshop (reviewer)
+
+
+
+
+
 
 
 
