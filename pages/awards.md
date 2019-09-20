@@ -12,8 +12,7 @@ title: Awards
 
 **Winner of a GlobusDoc grant 2017** sponsored by the University of Cagliari to stay 3 months at the New York University (USA)
 
-**Best poster award at ESWC-14 conference** with *Leveraging Cognitive Computing for Multi-
-Class Classification of E-Learning Videos* (see publications page for more details)
+**Best poster award at ESWC-14 conference** with *Leveraging Cognitive Computing for Multi-Class Classification of E-Learning Videos* (see publications page for more details)
 
 **Regional Merit Scholarship - Academic Year 2012-2013** awarded by Autonomous Region of Sardinia
 
