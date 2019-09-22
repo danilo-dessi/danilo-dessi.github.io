@@ -7,7 +7,7 @@ title: ""
 
 ## About me
 
-I am Danilo from [Zeddiani](https://goo.gl/maps/FP2gppLAMGmvkLBN7), a small village in the wonderful [Sardinia](https://goo.gl/maps/uMkwRB2PYKUQZ3vC8).
+I am Danilo from [Zeddiani](https://en.wikipedia.org/wiki/Zeddiani), a small village in the wonderful [Sardinia](https://en.wikipedia.org/wiki/Sardinia).
 I am an enthusiast young computer scientist. I am a Ph.D. candidate at the University of Cagliari who would like to continue his professional growth doing research. I am curious about how things work and interested to learn new ones. I like to push up myself to address more and more challenging tasks. I would like to continue building my carrier in computer science research areas such as Machine Learning, Semantic Web, and Sentiment Analysis which I have been working on during the last three years.
 
 ## Short bio
