@@ -11,7 +11,7 @@ title: Education
 Machine Learning - Semantic Web - Deep Learning - Text Mining - Knowledge Graphs
 
 #### Thesis
-*Leveraging Machine Learning and Semantic Web for Applications in Different Domains.*
+*Knowledge Extraction from Textual Resources through Semantic Web Tools and Advanced Machine Learning Algorithms for Applications in Various Domains.*
 
 **Supervisor** Prof. Diego Reforgiato Recupero
 
