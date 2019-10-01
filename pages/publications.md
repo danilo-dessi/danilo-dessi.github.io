@@ -30,7 +30,7 @@ title: Publications
 
 
 ### Posters&Demos
-- Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Parsing Natural Language Sentences in Robot Actions.**](http://ceur-ws.org/Vol-2456/paper24.pdf) In CEUR Workshop Proceedings ISWC 18<sup>th</sup> Satellite Poster&Demos (pp. 93-96).
+- Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Parsing Natural Language Sentences in Robot Actions.**](http://ceur-ws.org/Vol-2456/paper24.pdf) In CEUR Workshop Proceedings ISWC 18<sup>th</sup> Satellite Poster&Demos (pp. 93-96). 
 
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). **Mining Scholarly Publications for Scientific Knowledge Graph Construction.** Presented at: ESWC 16th conference. (*online paper is not available yet, if you are interested please contact me.*)
 
