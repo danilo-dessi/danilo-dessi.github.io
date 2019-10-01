@@ -24,13 +24,13 @@ title: Publications
 
 - **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2018). [**COCO: Semantic-Enriched Collection of Online Courses at Scale with Experimental Use Cases.**](https://link.springer.com/chapter/10.1007/978-3-319-77712-2_133)  In World Conference on Information Systems and Technologies (pp. 1386-1396).
 
- - **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2017). [**Exploiting Cognitive Computing and Frame Semantic Features for Biomedical Document Clustering.**](http://ceur-ws.org/Vol-1948/paper3.pdf) SeWeBMeDA@ESWC 14th: (pp. 20-34). 
+ - **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2017). [**Exploiting Cognitive Computing and Frame Semantic Features for Biomedical Document Clustering.**](http://ceur-ws.org/Vol-1948/paper3.pdf) SeWeBMeDA@ESWC 14<sup>th</sup>: (pp. 20-34). 
 
 - Fenu, G., Pau, P. L., & **Dessì, D.** (2016). [**Modeling and Extending Ecological Networks Using Land Similarity.**](https://link.springer.com/chapter/10.1007/978-3-319-50901-3_56) In International Workshop on Complex Networks and their Applications (pp. 709-718). Springer.
 
 
 ### Posters&Demos
-- Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). **Parsing Natural Language Sentences in Robot Actions.** Accepted at the Poster&Demos session of ISWC 18<sup>th</sup>. (*online paper is not available yet, if you are interested please contact me.*)
+- Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Parsing Natural Language Sentences in Robot Actions.**](http://ceur-ws.org/Vol-2456/paper24.pdf) In CEUR Workshop Proceedings ISWC 18<sup>th</sup> Satellite Poster&Demos (pp. 93-96).
 
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). **Mining Scholarly Publications for Scientific Knowledge Graph Construction.** Presented at: ESWC 16th conference. (*online paper is not available yet, if you are interested please contact me.*)
 
