@@ -16,7 +16,7 @@ title: Publications
 
 ### Conference/Workshop Proceedings
 
-- Reforgiato Recupero, D., **Dessì, D.**, Concas, E. (2019). [**A Flexible and Scalable Architecture for Human-Robot Interaction.**](https://link.springer.com/chapter/10.1007/978-3-030-34255-5_21) In European Conference on Ambient Intelligence. (pp.311-317) Springer. (*online paper is not available yet, if you are interested please contact me.*)
+- Reforgiato Recupero, D., **Dessì, D.**, Concas, E. (2019). [**A Flexible and Scalable Architecture for Human-Robot Interaction.**](https://link.springer.com/chapter/10.1007/978-3-030-34255-5_21) In European Conference on Ambient Intelligence (pp.311-317). Springer. 
 
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Mining Scholarly Data for Fine-Grained Knowledge Graph Construction.**](http://ceur-ws.org/Vol-2377/paper_3.pdf) In CEUR Workshop Proceedings (Vol. 2377, pp. 21-30).
 
