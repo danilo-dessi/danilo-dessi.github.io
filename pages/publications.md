@@ -16,6 +16,11 @@ title: Publications
 
 ### Conference/Workshop Proceedings
 
+- **Dessì, D.**, Helaoui, R., Kumar, V., Reforgiato Recupero, D., Riboni, D. (2020). **Towards Morbidity Identification Employing Deep Learning and
+Word Embeddings within Clinical Notes**. Accepted at the [SmarthPhil](https://hri.unica.it/SmartPhil/) workshop at ACM IUI 2020.
+
+- Consoli D., **Dessì, D.**, Fenu, G., Marras, M. (2020). **Deep Attention-based Model for Helpfulness Prediction of Healthcare Online Reviews**. Accepted at the [SmarthPhil](https://hri.unica.it/SmartPhil/) workshop at ACM IUI 2020.
+
 - Reforgiato Recupero, D., **Dessì, D.**, Concas, E. (2019). [**A Flexible and Scalable Architecture for Human-Robot Interaction.**](https://link.springer.com/chapter/10.1007/978-3-030-34255-5_21) In European Conference on Ambient Intelligence (pp.311-317). Springer. 
 
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Mining Scholarly Data for Fine-Grained Knowledge Graph Construction.**](http://ceur-ws.org/Vol-2377/paper_3.pdf) In CEUR Workshop Proceedings (Vol. 2377, pp. 21-30).
@@ -40,8 +45,7 @@ title: Publications
 
 
 ### Book Chapters
-- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., Reforgiato, D. (2019) **Deep Learning Adaptation with Word Embeddings for Sentiment Analysis on Online Course Reviews**. Accepted in Deep Learning based Approaches for Sentiment Analysis book. (*online paper is not available yet, if you are interested please contact me.*)
-
+- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., Reforgiato, D. (2019) [**Deep Learning Adaptation with Word Embeddings for Sentiment Analysis on Online Course Reviews**](https://link.springer.com/chapter/10.1007/978-981-15-1216-2_3). In Deep Learning-Based Approaches for Sentiment Analysis (pp. 57-83)
 - **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2019). [**A Recommender System of Medical Reports Leveraging Cognitive Computing and Frame Semantics.**](https://link.springer.com/chapter/10.1007/978-3-319-94030-4_2) In Machine Learning Paradigms (pp. 7-30).
 
 
