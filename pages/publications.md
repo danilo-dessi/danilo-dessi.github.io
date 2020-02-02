@@ -6,6 +6,7 @@ title: Publications
 ---
 
 ### Journals
+
 - **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Bridging learning analytics and Cognitive Computing for Big Data classification in micro-learning video collections.**](https://www.sciencedirect.com/science/article/pii/S0747563218301092) Computers in Human Behavior, 92, (pp. 468-477). 
 
 - **Dessì, D.**, Cirrone, J., Reforgiato Recupero, D., & Shasha, D. (2018). [**SuperNoder: a tool to discover over-represented modular structures in networks.**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2350-8) BMC Bioinformatics, 19, 318. 
@@ -35,6 +36,7 @@ Word Embeddings within Clinical Notes**. Accepted at the [SmarthPhil](https://hr
 
 
 ### Posters&Demos
+
 - Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Parsing Natural Language Sentences in Robot Actions.**](http://ceur-ws.org/Vol-2456/paper24.pdf) In CEUR Workshop Proceedings ISWC 18<sup>th</sup> Satellite Poster&Demos (pp. 93-96). 
 
 - Buscaldi, D., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Mining Scholarly Publications for Scientific Knowledge Graph Construction.**](https://link.springer.com/chapter/10.1007/978-3-030-32327-1_2) ESWC 16th Satellite Events. (pp. 8-12). 
@@ -45,7 +47,9 @@ Word Embeddings within Clinical Notes**. Accepted at the [SmarthPhil](https://hr
 
 
 ### Book Chapters
+
 - **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., Reforgiato, D. (2019) [**Deep Learning Adaptation with Word Embeddings for Sentiment Analysis on Online Course Reviews**](https://link.springer.com/chapter/10.1007/978-981-15-1216-2_3). In Deep Learning-Based Approaches for Sentiment Analysis (pp. 57-83)
+
 - **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2019). [**A Recommender System of Medical Reports Leveraging Cognitive Computing and Frame Semantics.**](https://link.springer.com/chapter/10.1007/978-3-319-94030-4_2) In Machine Learning Paradigms (pp. 7-30).
 
 
