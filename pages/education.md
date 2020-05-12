@@ -5,7 +5,7 @@ permalink: /education/
 title: Education
 ---
 
-## Ph.D. in Computer Science (in progress)
+## Ph.D. in Computer Science
 ### University of Cagliari
 #### Research Topics
 
