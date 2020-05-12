@@ -15,6 +15,8 @@ Machine Learning - Semantic Web - Deep Learning - Text Mining - Knowledge Graphs
 
 *Knowledge Extraction from Textual Resources through Semantic Web Tools and Advanced Machine Learning Algorithms for Applications in Various Domains.*
 
+**Date** 26 February 2020 **Age** 28
+
 **Supervisor** Prof. Diego Reforgiato Recupero
 
 

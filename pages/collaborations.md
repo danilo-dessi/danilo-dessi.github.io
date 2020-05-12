@@ -21,6 +21,10 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 ## People
 
+- [**Mehwish Alam**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam), PostDoc / Senior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). 
+
+- [**Russa Biswas**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-russa-biswas), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
 - [**Davide Buscaldi**](https://sites.google.com/site/davidebuscaldi/), Associate Professor at the University of Paris 13 (France).
 
 - [**Jacopo Cirrone**](https://www.linkedin.com/in/jacopo-cirrone-00b78755), Ph.D. candidate at the Courant Institute of Mathematical Science of the New York University (U.S.A.).
@@ -33,15 +37,30 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - [**Gianni Fenu**](http://people.unica.it/giannifenu/), Full Professor at the University of Cagliari (Italy).
 
-- [**Mirko Marras**](https://www.mirkomarras.com/), Ph.D. candidate at the University of Cagliari (Italy).
+- [**Genet Asefa Gesese**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
+- [**Fabian Hoppe**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
+- [**Mirko Marras**](https://www.mirkomarras.com/), Researcher at the University of Cagliari (Italy).
 
 - [**Enrico Motta**](http://people.kmi.open.ac.uk/motta/), Full Professor at the Knowledge Media Institute of The Open University (UK).
 
 - [**Francesco Osborne**](http://kmi.open.ac.uk/people/member/francesco-osborne), Research Fellow at the Knowledge Media Institute of The Open University (UK).
 
+- [**Zahra Rezaie**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-zahra-rezaie), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
 - [**Diego Reforgiato Recupero**](http://people.unica.it/diegoreforgiato/), Associate Professor at the University of Cagliari (Italy).
 
+- [**Harald Sack**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack), Full Professor at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
 - [**Dennis Shasha**](https://cs.nyu.edu/shasha/), Full Professor at the Courant Institute of Mathematical Sciences of the New York University (U.S.A.).
+
+- [**Tabea Tietz**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-tabea-tietz), Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
+- [**Rima Türker**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-rima-tuerker), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
+- [**Oleksandra Vsesviatska**](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#staff), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+
 
 
 ## Reviewing activity for International Conferences and Journals
