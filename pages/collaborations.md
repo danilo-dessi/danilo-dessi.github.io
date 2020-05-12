@@ -21,9 +21,9 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 ## People
 
-- [**Mehwish Alam**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam), PostDoc / Senior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). 
+- [**Mehwish Alam**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam), PostDoc / Senior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)
 
-- [**Russa Biswas**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-russa-biswas), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Russa Biswas**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-russa-biswas), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
 
 - [**Davide Buscaldi**](https://sites.google.com/site/davidebuscaldi/), Associate Professor at the University of Paris 13 (France).
 
@@ -37,9 +37,9 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - [**Gianni Fenu**](http://people.unica.it/giannifenu/), Full Professor at the University of Cagliari (Italy).
 
-- [**Genet Asefa Gesese**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Genet Asefa Gesese**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
 
-- [**Fabian Hoppe**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Fabian Hoppe**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
 
 - [**Mirko Marras**](https://www.mirkomarras.com/), Researcher at the University of Cagliari (Italy).
 
@@ -47,19 +47,19 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - [**Francesco Osborne**](http://kmi.open.ac.uk/people/member/francesco-osborne), Research Fellow at the Knowledge Media Institute of The Open University (UK).
 
-- [**Zahra Rezaie**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-zahra-rezaie), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Zahra Rezaie**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-zahra-rezaie), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
 
 - [**Diego Reforgiato Recupero**](http://people.unica.it/diegoreforgiato/), Associate Professor at the University of Cagliari (Italy).
 
-- [**Harald Sack**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack), Full Professor at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Harald Sack**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack), Full Professor at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)
 
 - [**Dennis Shasha**](https://cs.nyu.edu/shasha/), Full Professor at the Courant Institute of Mathematical Sciences of the New York University (U.S.A.).
 
-- [**Tabea Tietz**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-tabea-tietz), Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Tabea Tietz**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-tabea-tietz), Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)  
 
-- [**Rima Türker**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-rima-tuerker), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Rima Türker**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-rima-tuerker), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)
 
-- [**Oleksandra Vsesviatska**](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#staff), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB).  
+- [**Oleksandra Vsesviatska**](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#staff), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)  
 
 
 
