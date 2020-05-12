@@ -17,7 +17,7 @@ title: Publications
 
 ### Conference/Workshop Proceedings
 
-Hoppe, F., Tietz, T. **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). **The Challenges of German Archival Document Categorization on Insufficient Labeled Data**. Accepted in WHiSe@ESWC 2020.
+- Hoppe, F., Tietz, T. **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). **The Challenges of German Archival Document Categorization on Insufficient Labeled Data**. Accepted in WHiSe@ESWC 2020.
 
 - **Dessì, D.**, Helaoui, R., Kumar, V., Reforgiato Recupero, D., Riboni, D. (2020). [**TF-IDF vs Word Embeddings for Morbidity Identification in Clinical Notes: An Initial Study**.](http://ceur-ws.org/Vol-2596/paper1.pdf) Presented in SmartPhil@IUI 2020. In CEUR Workshop Proceedings (Vol. 2596, pp. 1-12).
 
