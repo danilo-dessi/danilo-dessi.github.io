@@ -21,7 +21,7 @@ title: Publications
 
 - **Dessì, D.**, Helaoui, R., Kumar, V., Reforgiato Recupero, D., Riboni, D. (2020). [**TF-IDF vs Word Embeddings for Morbidity Identification in Clinical Notes: An Initial Study**.](http://ceur-ws.org/Vol-2596/paper1.pdf) Presented in SmartPhil@IUI 2020. In CEUR Workshop Proceedings (Vol. 2596, pp. 1-12).
 
-- Consoli D., **Dessì, D.**, Fenu, G., Marras, M. (2020). [**Deep Attention-based Model for Helpfulness Prediction of Healthcare Online Reviews**.](http://ceur-ws.org/Vol-2596/paper3.pdf) Presented in SmartPhil@IUI 2020. In CEUR Workshop Proceedings (Vol. 2596, pp. 33-49).
+- Consoli S., **Dessì, D.**, Fenu, G., Marras, M. (2020). [**Deep Attention-based Model for Helpfulness Prediction of Healthcare Online Reviews**.](http://ceur-ws.org/Vol-2596/paper3.pdf) Presented in SmartPhil@IUI 2020. In CEUR Workshop Proceedings (Vol. 2596, pp. 33-49).
 
 - Reforgiato Recupero, D., **Dessì, D.**, Concas, E. (2019). [**A Flexible and Scalable Architecture for Human-Robot Interaction.**](https://link.springer.com/chapter/10.1007/978-3-030-34255-5_21) In European Conference on Ambient Intelligence (pp.311-317). Springer. 
 
