@@ -12,6 +12,9 @@ title: Collaborations
 
 HRI Lab is a laboratory of **Human-Robot Interaction** at the University of Cagliari and in collaboration with [R2M Solution s.r.l.](http://www.r2msolution.com/) whose research and development activities are dedicated to the understanding, designing, and evaluating of several robotic platforms which employ different research technologies (e.g. Sentiment Analysis, Semantic Web, Deep Learning, Big Data, Sensors, Computer Vision, Natural Language Processing) when interacting with humans.
 
+### [AIBD](https://aibd.unica.it/)
+
+The **Artificial Intelligence and Big Data Laboratory** is mainly devoted to the design, analysis and experimentation of algorithms and systems involving Big structured and unstructured Data for the Web and for IoT, Mobile and Pervasive computing, Activity recognition and Machine Learning in order to tackle different research topics in various domains: Recommendation Systems, Semantic Web, Text Classification and Extraction, Graph Theory and analysis, Data Mining, Artificial Intelligence, Computer Vision, Big Data, Machine Learning, Deep Learning, Natural Language Processing, Human Robot Interaction and Human activity identification based on sensor data.
 
 ### [SKM<sup>3</sup> Team](http://skm.kmi.open.ac.uk/)
 
@@ -61,6 +64,22 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - [**Oleksandra Vsesviatska**](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#staff), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)  
 
+
+## Program Committee 
+
+- ISWC Research Track (2020 - )
+
+- ACM SAC Knowledge and Language Processing track (2019 - )
+
+- Clic-it conference (2019 - )
+
+- Semantics EU conference P&D track (2019-2020)
+
+- CSSA workshop at CIKM (2020)
+
+- SKG workshop at TPDL (2020)
+
+- Bias workshop at ECIR (2020)
 
 
 ## Reviewing activity for International Conferences and Journals
