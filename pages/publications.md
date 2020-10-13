@@ -51,7 +51,7 @@ title: Publications
 
 ### Book Chapters
 
-- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., Reforgiato, D. (2019). [**Deep Learning Adaptation with Word Embeddings for Sentiment Analysis on Online Course Reviews.**](https://link.springer.com/chapter/10.1007/978-981-15-1216-2_3) In Deep Learning-Based Approaches for Sentiment Analysis (pp. 57-83)
+- **Dessì, D.**, Dragoni, M., Fenu, G., Marras, M., Reforgiato, D. (2020). [**Deep Learning Adaptation with Word Embeddings for Sentiment Analysis on Online Course Reviews.**](https://link.springer.com/chapter/10.1007/978-981-15-1216-2_3) In Deep Learning-Based Approaches for Sentiment Analysis (pp. 57-83)
 
 - **Dessì, D.**, Reforgiato Recupero, D., Fenu, G., & Consoli, S. (2019). [**A Recommender System of Medical Reports Leveraging Cognitive Computing and Frame Semantics.**](https://link.springer.com/chapter/10.1007/978-3-319-94030-4_2) In Machine Learning Paradigms (pp. 7-30).
 
