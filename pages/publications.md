@@ -17,12 +17,13 @@ title: Publications
 
 ### Conference/Workshop Proceedings
 
-- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., Motta E., & Sack, H. (2020). [**AI-KG: an Automatically Generated Knowledge Graph of Artificial Intelligence**](). Accepted at the ISWC 2020 Resource Track.
+- Hoppe, F., Tietz, T., **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). [The Challenges of German Archival Document Categorization on Insufficient Labeled Data.](http://ceur-ws.org/Vol-2695/paper2.pdf). In CEUR Workshop Proceedings (Vol. 2695, pp. 15-20). WHiSe@ESWC 2020.
 
-- **Dessì, D.**, Helaoui, R., Kumar, V., Reforgiato Recupero, D., Riboni, D. (2020). **Towards Morbidity Identification Employing Deep Learning and
-Word Embeddings within Clinical Notes**. Accepted at the [SmarthPhil](https://hri.unica.it/SmartPhil/) workshop at ACM IUI 2020.
+- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., Motta E., & Sack, H. (2020). [**AI-KG: an Automatically Generated Knowledge Graph of Artificial Intelligence**](http://oro.open.ac.uk/71736/). Accepted at the ISWC 2020 Resource Track.
 
-- Consoli S., **Dessì, D.**, Fenu, G., Marras, M. (2020). **Deep Attention-based Model for Helpfulness Prediction of Healthcare Online Reviews**. Accepted at the [SmarthPhil](https://hri.unica.it/SmartPhil/) workshop at ACM IUI 2020.
+- **Dessì, D.**, Helaoui, R., Kumar, V., Reforgiato Recupero, D., Riboni, D. (2020). [**Towards Morbidity Identification Employing Deep Learning and Word Embeddings within Clinical Notes**](http://ceur-ws.org/Vol-2596/paper1.pdf). In CEUR Workshop Proceedings (Vol. 2596, pp. 1-12). SmartPhil@ACM IUI.
+
+- Consoli S., **Dessì, D.**, Fenu, G., Marras, M. (2020). [**Deep Attention-based Model for Helpfulness Prediction of Healthcare Online Reviews**](http://ceur-ws.org/Vol-2596/paper3.pdf). In CEUR Workshop Proceedings (Vol. 2596, pp. 33-49). SmartPhil@ACM IUI.
 
 - Reforgiato Recupero, D., **Dessì, D.**, Concas, E. (2019). [**A Flexible and Scalable Architecture for Human-Robot Interaction.**](https://link.springer.com/chapter/10.1007/978-3-030-34255-5_21) In European Conference on Ambient Intelligence (pp.311-317). Springer. 
 
