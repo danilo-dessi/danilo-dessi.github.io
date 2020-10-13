@@ -17,7 +17,7 @@ title: Publications
 
 ### Conference/Workshop Proceedings
 
-- Hoppe, F., Tietz, T., **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). [The Challenges of German Archival Document Categorization on Insufficient Labeled Data.](http://ceur-ws.org/Vol-2695/paper2.pdf). In CEUR Workshop Proceedings (Vol. 2695, pp. 15-20). WHiSe@ESWC 2020.
+- Hoppe, F., Tietz, T., **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). [**The Challenges of German Archival Document Categorization on Insufficient Labeled Data**](http://ceur-ws.org/Vol-2695/paper2.pdf). In CEUR Workshop Proceedings (Vol. 2695, pp. 15-20). WHiSe@ESWC 2020.
 
 - **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., Motta E., & Sack, H. (2020). [**AI-KG: an Automatically Generated Knowledge Graph of Artificial Intelligence**](http://oro.open.ac.uk/71736/). Accepted at the ISWC 2020 Resource Track.
 
