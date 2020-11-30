@@ -7,6 +7,8 @@ title: Publications
 
 ### Journals
 
+- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., & Motta E. (2020). [**Generating knowledge graphs by employing Natural Language Processing and Machine Learning techniques within the scholarly domain**](http://www.sciencedirect.com/science/article/pii/S0167739X2033003X). Future Generation Computer Systems, 116, (pp. 253-264).
+
 - **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Bridging learning analytics and Cognitive Computing for Big Data classification in micro-learning video collections.**](https://www.sciencedirect.com/science/article/pii/S0747563218301092) Computers in Human Behavior, 92, (pp. 468-477). 
 
 - **Dessì, D.**, Cirrone, J., Reforgiato Recupero, D., & Shasha, D. (2018). [**SuperNoder: a tool to discover over-represented modular structures in networks.**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2350-8) BMC Bioinformatics, 19, 318. 
@@ -19,7 +21,7 @@ title: Publications
 
 - Hoppe, F., Tietz, T., **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). [**The Challenges of German Archival Document Categorization on Insufficient Labeled Data**](http://ceur-ws.org/Vol-2695/paper2.pdf). In CEUR Workshop Proceedings (Vol. 2695, pp. 15-20). WHiSe@ESWC 2020.
 
-- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., Motta E., & Sack, H. (2020). [**AI-KG: an Automatically Generated Knowledge Graph of Artificial Intelligence**](http://oro.open.ac.uk/71736/). Accepted at the ISWC 2020 Resource Track.
+- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., Motta E., & Sack, H. (2020). [**AI-KG: an Automatically Generated Knowledge Graph of Artificial Intelligence**](http://oro.open.ac.uk/71736/). In International Semantic Web Conference (pp. 127-143). Springer, Cham.
 
 - **Dessì, D.**, Helaoui, R., Kumar, V., Reforgiato Recupero, D., Riboni, D. (2020). [**Towards Morbidity Identification Employing Deep Learning and Word Embeddings within Clinical Notes**](http://ceur-ws.org/Vol-2596/paper1.pdf). In CEUR Workshop Proceedings (Vol. 2596, pp. 1-12). SmartPhil@ACM IUI.
 
