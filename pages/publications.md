@@ -7,6 +7,8 @@ title: Publications
 
 ### Journals
 
+- **Dessì, D.**, Recupero Reforgiato, D., & Sack, H. (2021). [**An Assessment of Deep Learning Models and Word Embeddings for Toxicity Detection within Online Textual Comments**](https://drive.google.com/file/d/1xp9Jgw2QArihfAmM8WOldh_kStUktov_/view?usp=sharing). Accepted in MDPI Electronics.
+
 - **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., & Motta E. (2020). [**Generating knowledge graphs by employing Natural Language Processing and Machine Learning techniques within the scholarly domain**](http://www.sciencedirect.com/science/article/pii/S0167739X2033003X). Future Generation Computer Systems, 116, (pp. 253-264).
 
 - **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Bridging learning analytics and Cognitive Computing for Big Data classification in micro-learning video collections.**](https://www.sciencedirect.com/science/article/pii/S0747563218301092) Computers in Human Behavior, 92, (pp. 468-477). 
@@ -18,6 +20,14 @@ title: Publications
 
 
 ### Conference/Workshop Proceedings
+
+- Hoppe, F., **Dessì, D.**, & Sack, H. (2021). [**Deep Learning meets Knowledge Graphs for Scholarly Data Classification**](https://drive.google.com/file/d/1KirtEYTCBZl_PLYTQUyspcArQ4ulr4o7/view?usp=sharing). Proceedings of the of 1st International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2021), Co-located with The Web Conference 2021.
+
+- Alam, M., Biswas, R., Chen, Y., **Dessì, D.**, Gesese, G. A., Hoppe, F., & Sack, H. (2021) [**HierClasSArt: Knowledge-Aware Hierarchical Classification of Scholarly Articles**](https://drive.google.com/file/d/1NXf8Xbi7cRB-NF45EAFOUIVL4PfJFfhR/view?usp=sharing).  Proceedings of the of 1st International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2021), Co-located with The Web Conference 2021. 
+
+- Tietz,T., Bruns, O., Göller, S., Razum, M., **Dessì, D**., & Sack, H. (2021). [**Knowledge Graph enabled Curation and Exploration of Nuremberg's City Heritage**](https://drive.google.com/file/d/1OSqmgNaZTy7ZjQ9hWNtsJIKMF3dqD7sC/view?usp=sharing).  Accepted at Qurator 2021.
+
+- Vsesviatska, O., Tietz, T., Hoppe, F., Sprau, M., Meyer, N.,  **Dessi, D.**, & Sack, H. (2021). [**ArDO: An Ontology to Describe the Dynamics of Multimedia Archival Records**](https://drive.google.com/file/d/1o1QbYTgvJMzWuDuEFzFpRjn1F83nh59h/view?usp=sharing). In Proceedings of the 36th ACM/SIGAPP Symposium on Applied Computing (pp: 1855-1863). ACM.
 
 - Hoppe, F., Tietz, T., **Dessì, D.**, Meyer, N., Sprau, M., Alam, M., Sack, H. (2020). [**The Challenges of German Archival Document Categorization on Insufficient Labeled Data**](http://ceur-ws.org/Vol-2695/paper2.pdf). In CEUR Workshop Proceedings (Vol. 2695, pp. 15-20). WHiSe@ESWC 2020.
 
