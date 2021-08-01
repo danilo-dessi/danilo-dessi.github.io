@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /education/
-title: 
+
 ---
 
 Ph.D. in Computer Science
