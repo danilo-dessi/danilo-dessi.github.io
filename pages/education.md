@@ -2,14 +2,14 @@
 layout: single
 author_profile: true
 permalink: /education/
-title: Education
+title: 
 ---
 
 Ph.D. in Computer Science
 ======
 University of Cagliari
 
-**Research Topics**: Machine Learning, Semantic Web, Deep Learning, Text Mining, Knowledge Graphs
+**Research Topics**: Machine Learning - Semantic Web - Deep Learning - Text Mining - Knowledge Graphs
 
 **Thesis**: *Knowledge Extraction from Textual Resources through Semantic Web Tools and Advanced Machine Learning Algorithms for Applications in Various Domains.*
 
