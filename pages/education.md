@@ -5,61 +5,56 @@ permalink: /education/
 title: Education
 ---
 
-## Ph.D. in Computer Science
-### University of Cagliari
-#### Research Topics
+Ph.D. in Computer Science
+======
+University of Cagliari
 
-Machine Learning - Semantic Web - Deep Learning - Text Mining - Knowledge Graphs
+**Research Topics**: Machine Learning, Semantic Web, Deep Learning, Text Mining, Knowledge Graphs
 
-#### Thesis
+**Thesis**: *Knowledge Extraction from Textual Resources through Semantic Web Tools and Advanced Machine Learning Algorithms for Applications in Various Domains.*
 
-*Knowledge Extraction from Textual Resources through Semantic Web Tools and Advanced Machine Learning Algorithms for Applications in Various Domains.*
+**Date**: 26 February 2020 **Age** 28
 
-**Date** 26 February 2020 **Age** 28
-
-**Supervisor** Prof. Diego Reforgiato Recupero
+**Supervisor**: Prof. Diego Reforgiato Recupero
 
 
-## Computer Science M.Sc. Degree
-### University of Cagliari
-#### Main Topics
+Computer Science M.Sc. Degree
+======
+University of Cagliari
 
-Image Processing - Formal Methods- Security Foundation - Advanced Algorithms and Data Structures - Biometrics and Security - Data Mining - Network Computation - Advanced Computer Architecture - Operating Systems - Networking Architecture - Computational Mathematics - Databases - Operative Research
+**Exam Topics**: Image Processing - Formal Methods- Security Foundation - Advanced Algorithms and Data Structures - Biometrics and Security - Data Mining - Network Computation - Advanced Computer Architecture - Operating Systems - Networking Architecture - Computational Mathematics - Databases - Operative Research
 
-#### Thesis 
+**Thesis**: *A Complex Network Approach to evaluate the Natura 2000 Network.* 
 
-*A Complex Network Approach to evaluate the Natura 2000 Network.* 
+**Final Score**: 110/110 
 
-**Final Score** 110/110 **Date** 22 September 2016 **Age** 24
+**Date**: 22 September 2016 **Age** 24
 
-**Supervisor** Prof. Gianni Fenu 
+**Supervisor**: Prof. Gianni Fenu 
 
-## CCNA Exploration Certification
-### CISCO Network Academy
 
-- **CCNA 1** Network Fundamentals
+Computer Science B.Sc. Degre
+======
+University of Cagliari 
 
-- **CCNA 2** Routing Protocols and Concepts
+**Exam Topics**: Computer Science Foundation - Operating Systems - Relational Databases - Computer Networks - Imperative / Object Oriented / Functional Programming - Algorithms - Data Structures - Programming Languages - Automata - Human Computer Interaction - Software Engineering - Computer Architecture - Statistics - Mathematical Analysis
 
-## Computer Science B.Sc. Degree
-### University of Cagliari 
-#### Main Topics
+**Thesis**: *Convergence of Processes and Services on Mobile Devices.*
 
-Computer Science Foundation - Operating Systems - Relational Databases - Computer Networks - Imperative / Object Oriented / Functional Programming - Algorithms - Data Structures - Programming Languages - Automata - Human Computer Interaction - Software Engineering - Computer Architecture - Statistics - Mathematical Analysis
+**Final Score**: 110/110 (cum laude) 
 
-#### Thesis
+**Date**: 25 July 2014 **Age** 22 
 
-*Convergence of Processes and Services on Mobile Devices.*
+**Supervisor**: Prof. Gianni Fenu
 
-**Final Score** 110/110 (cum laude) **Date** 25 July 2014 **Age** 22 
 
-**Supervisor** Prof. Gianni Fenu
+High School Diploma
+======
+ITIS Othoca Oristano
 
-## High School Diploma
-### ITIS OTHOCA Oristano
-#### Main topics
+**Main topics**: Programming Foundation - Information Transmission - Analogical Electronics - Digital Electronics - Statistics - Database - Mathematics - English Language
 
-Programming Foundation - Information Transmission - Analogical Electronics - Digital Electronics - Statistics - Database - Mathematics - English Language
+**Final score**: 100/100  
 
-**Final score** 100/100   **Date** 04 July 2011 **Age** 19
+**Date**: 04 July 2011 **Age** 19
 
