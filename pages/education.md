@@ -5,7 +5,7 @@ permalink: /education/
 title: ""
 ---
 
-Ph.D. in Computer Science
+### Ph.D. in Computer Science
 ======
 University of Cagliari
 
@@ -18,7 +18,7 @@ University of Cagliari
 **Supervisor**: Prof. Diego Reforgiato Recupero
 
 
-Computer Science M.Sc. Degree
+### Computer Science M.Sc. Degree
 ======
 University of Cagliari
 
@@ -33,7 +33,7 @@ University of Cagliari
 **Supervisor**: Prof. Gianni Fenu 
 
 
-Computer Science B.Sc. Degre
+### Computer Science B.Sc. Degre
 ======
 University of Cagliari 
 
@@ -48,7 +48,7 @@ University of Cagliari
 **Supervisor**: Prof. Gianni Fenu
 
 
-High School Diploma
+### High School Diploma
 ======
 ITIS Othoca Oristano
 

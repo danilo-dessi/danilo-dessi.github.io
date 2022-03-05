@@ -8,7 +8,7 @@ title: ""
 ## About me
 
 I am Danilo from [Zeddiani](https://en.wikipedia.org/wiki/Zeddiani), a small village in the wonderful [Sardinia](https://en.wikipedia.org/wiki/Sardinia).
-I am an enthusiast young computer scientist. I am a PostDoc / Senior Researcher at [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/) (Germany). I am curious about how things work and interested to learn new ones. I like to push up myself to address more and more challenging tasks. I would like to continue building my carrier in computer science research areas such as Machine Learning, Semantic Web, and Sentiment Analysis which I have been working on during the last three years.
+I am an enthusiast young computer scientist. I am Researcher and Assistant Professor at the University of Cagliari (Italy). I am curious about how things work and interested to learn new ones. I like to push up myself to address more and more challenging tasks. I would like to continue building my carrier in computer science research areas such as Machine Learning, Semantic Web, and Sentiment Analysis which I have been working on during the last three years.
 
 ## Short bio
 
@@ -26,12 +26,14 @@ During my Ph.D. studies, I had the opportunity to visit many research centers ar
 
 I was also visiting student of the Professor [Enrico Motta](http://people.kmi.open.ac.uk/motta/) at the Knowledge Media Institute of the Open University from September to December 2018. From January 2019 to April 2019, I was visiting student at the LIPN in Paris under the supervision of Professor [Davide Buscaldi](https://sites.google.com/site/davidebuscaldi/). During these periods, I worked on text mining techniques that exploit both Machine Learning and Semantic Web technologies for extracting knowledge from scientific literature in order to build a scientific knowledge graph. 
 
-Currently, I am working as PostDoc / Senior Researcher at [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/) within the [FIZ ISE](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering) team with the Professor [Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack).
+From January 2020 to November 2021 I was working as PostDoc / Senior Researcher at [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/) within the [FIZ ISE](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering) team with the Professor [Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack).
+
+Currently, I am Researcher and Assistant Professor at the Departiment of Mathematics and Computer Science at the University of Cagliari (Italy). 
  
 ## Research Interests
 - Machine Learning
 
-- Semantic Web
+- Scholarly Data
 
 - Sentiment Analysis
 

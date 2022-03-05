@@ -7,9 +7,11 @@ title: Publications
 
 ### Journals
 
-- **Dessì, D.**, Recupero Reforgiato, D., & Sack, H. (2021). [**An Assessment of Deep Learning Models and Word Embeddings for Toxicity Detection within Online Textual Comments**](https://drive.google.com/file/d/1xp9Jgw2QArihfAmM8WOldh_kStUktov_/view?usp=sharing). Accepted in MDPI Electronics.
+- **Dessì, D.**, & Recupero Reforgiato, D. (2021). [**LexTex: a framework to generate lexicons using WordNet word senses in domain specific categories**](https://drive.google.com/file/d/1-1L4RajfSBHWEPgfk2dO6SV5F4ubrGNx/view?usp=sharing). Journal of Intelligent Information Systems, 1-24.
 
-- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., & Motta E. (2020). [**Generating knowledge graphs by employing Natural Language Processing and Machine Learning techniques within the scholarly domain**](http://www.sciencedirect.com/science/article/pii/S0167739X2033003X). Future Generation Computer Systems, 116, (pp. 253-264).
+- **Dessì, D.**, Recupero Reforgiato, D., & Sack, H. (2021). [**An Assessment of Deep Learning Models and Word Embeddings for Toxicity Detection within Online Textual Comments**](https://www.mdpi.com/2079-9292/10/7/779). Electronics 10.7 (2021): 779.
+
+- **Dessì, D.**, Osborne, F., Recupero Reforgiato, D., Buscaldi, D., & Motta E. (2020). [**Generating knowledge graphs by employing Natural Language Processing and Machine Learning techniques within the scholarly domain**](https://arxiv.org/abs/2011.01103). Future Generation Computer Systems, 116, (pp. 253-264).
 
 - **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Bridging learning analytics and Cognitive Computing for Big Data classification in micro-learning video collections.**](https://www.sciencedirect.com/science/article/pii/S0747563218301092) Computers in Human Behavior, 92, (pp. 468-477). 
 
@@ -20,6 +22,20 @@ title: Publications
 
 
 ### Conference/Workshop Proceedings
+
+- Hoppe, F., **Dessì, D.**, & Sack, H. (2021). [**Understanding Class Representations: An Intrinsic Evaluation of Zero-Shot Text Classification**](http://ceur-ws.org/Vol-3034/paper8.pdf). In Proceedings of the Workshop on Deep Learning for Knowledge Graphs (DL4KG@ ISWC2021). In CEUR Workshop Proceedings (vol. 3034).
+
+- Ihsan, A. Z., **Dessì, D.**, Alam, M., Sack, H., & Sandfeld, S. (2021). [**Steps towards a Dislocation Ontology for Crystalline Materials**](http://ceur-ws.org/Vol-2887/paper4.pdf). In Proceedings of the Second International Workshop on Semantic Digital Twins. In CEUR Workshop Proceedings (vol. 2887). 
+
+- Alam M., Birkholz H., **Dessì D**, Eberl C., Fliegl H., Gumbsch P., von Hartrott P., Mädler L., Niebel M., Sack H., Thomas A. [**Ontology Modelling for Materials Science Experiments.**](http://ceur-ws.org/Vol-2941/paper11.pdf). Joint of the Poster and Demo Track and Workshop on Ontology-Driven Conceptual Modelling of Digital Twins & Semantics Posters and Demos 2021. In CEUR Workshop Proceedings (vol. 2941). 
+
+- Vafaie, M., Bruns, O., Pilz, N., **Dessí, D.**, & Sack, H. (2021). [**Modelling Archival Hierarchies in Practice: Key Aspects and Lessons Learned**](http://ceur-ws.org/Vol-2981/paper6.pdf). The 6th International Workshop on Computational History (HistoInformatics2021-JCDL2021). In CEUR Workshop Proceedings (vol. 2981). 
+
+- Tan, M. A., Tietz, T., Bruns, O., Oppenlaender, J., **Dessí, D.**, & Sack, H. (2021). [**DDB-KG: The German Bibliographic Heritage in a Knowledge Graph**.](http://ceur-ws.org/Vol-2981/paper2.pdf) The 6th International Workshop on Computational History (HistoInformatics2021-JCDL2021). In CEUR Workshop Proceedings (vol. 2981). 
+
+- Bruns, O., Tietz, T., Vafaie, M., **Dessí, D.**, & Sack, H. (2021). [**Towards a representation of temporal data in archival records: Use cases and requirements.**](http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_4.pdf) In Proceedings of the International Workshop on Archives and Linked Data. In CEUR Workshop Proceedings (vol. 3019). 
+
+- **Dessì, D.**, Käser, T., Marras, M., Popescu, E., & Sack, H. (2021). [**Designing Intelligent Systems for Online Education: Open Challenges and Future Directions**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4316448355175280944#:~:text=Cite-,%5BPDF%5D%20ceur%2Dws.org,-%5BPDF%5D%20Designing%20Intelligent). Proceedings of the First International Workshop on Enabling Data-Driven Decisions from Learning on the Web co-located with the 14th ACM International Conference on Web Search and Data Mining (WSDM 2021). In CEUR Workshop Proceedings (vol. 2876). 
 
 - Hoppe, F., **Dessì, D.**, & Sack, H. (2021). [**Deep Learning meets Knowledge Graphs for Scholarly Data Classification**](https://drive.google.com/file/d/1KirtEYTCBZl_PLYTQUyspcArQ4ulr4o7/view?usp=sharing). Proceedings of the of 1st International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2021), Co-located with The Web Conference 2021.
 
@@ -51,6 +67,8 @@ title: Publications
 
 
 ### Posters&Demos
+
+- Tan, M. A., Tietz, T., Bruns, O., Oppenlaender, J., **Dessì, D.**, & Sack, H. (2021). [**DDB-EDM to FaBiO: The Case of the German Digital Library**](http://ceur-ws.org/Vol-2980/paper348.pdf). In Proceedings of the International Semantic Web Conference Posters, Demos and Industry Tracks. In CEUR Workshop Proceedings (vol. 2980). 
 
 - Bardaro G., **Dessì, D.**, Motta, E., Osborne, F., & Reforgiato Recupero, D. (2019). [**Parsing Natural Language Sentences in Robot Actions.**](http://ceur-ws.org/Vol-2456/paper24.pdf) In CEUR Workshop Proceedings ISWC 18<sup>th</sup> Satellite Poster&Demos (pp. 93-96). 
 
