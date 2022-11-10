@@ -8,7 +8,7 @@ title: ""
 ## About me
 
 I am Danilo from [Zeddiani](https://en.wikipedia.org/wiki/Zeddiani), a small village in the wonderful [Sardinia](https://en.wikipedia.org/wiki/Sardinia).
-I am an enthusiast young computer scientist. I am Researcher and Assistant Professor at the University of Cagliari (Italy). I am curious about how things work and interested to learn new ones. I like to push up myself to address more and more challenging tasks. I would like to continue building my carrier in computer science research areas such as Machine Learning, Semantic Web, and Sentiment Analysis which I have been working on during the last three years.
+I am an enthusiast computer scientist. I am Senior Researcher at the [Knowledge Technologies for the Social Sciences Department](https://www.gesis.org/en/institute/departments/knowledge-technologies-for-the-social-sciences) at [GESIS Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home). I am curious about how things work and always interested to learn new ones. I like to push up myself to address more and more challenging tasks. I would like to continue building my carrier in computer science research areas such as Knowledge Graphs, Machine Learning, Semantic Web, and Sentiment Analysis which I have been working on during the last three years.
 
 ## Short bio
 
@@ -28,17 +28,11 @@ I was also visiting student of the Professor [Enrico Motta](http://people.kmi.op
 
 From January 2020 to November 2021 I was working as PostDoc / Senior Researcher at [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/) within the [FIZ ISE](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering) team with the Professor [Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack).
 
-Currently, I am Researcher and Assistant Professor at the Departiment of Mathematics and Computer Science at the University of Cagliari (Italy). 
- 
+From October 2021 to September 2022, I was Researcher at the University of Cagliari where I was Professor of the course of Computer Architecture course within the B.Sc. on Applied Informatics and Data Analytics. 
+
+
+
 ## Research Interests
-- Machine Learning
-
-- Scholarly Data
-
-- Sentiment Analysis
-
-- Text Mining
-
-- Knowledge Graphs
+Knowledge Graphs - Scholarly Data - Sentiment Analysis - Text Mining - Machine Learning
 
 
