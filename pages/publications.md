@@ -19,7 +19,6 @@ title: Publications
 
 ### Journals
 
-https://drive.google.com/file/d/1oYSQtaNhYoAoYpX_cPCp-aiU_M2CNjGt/view?usp=sharing
 
 - **Dessí, D.**, Osborne, F., Recupero, D. R., Buscaldi, D., & Motta, E. (2022). [SCICERO: A deep learning and NLP approach for generating scientific knowledge graphs in the computer science domain](https://drive.google.com/file/d/1_3In8l7Z6iIBye_WTQeoT0ybTKo9tDit/view?usp=sharing). Knowledge-Based Systems, 258, 109945.
 
