@@ -5,7 +5,25 @@ permalink: /publications/
 title: Publications
 ---
 
+### Selected Papaers
+
+- **Dessí, D.**, Osborne, F., Recupero, D. R., Buscaldi, D., & Motta, E. (2022). [SCICERO: A deep learning and NLP approach for generating scientific knowledge graphs in the computer science domain](https://drive.google.com/file/d/1_3In8l7Z6iIBye_WTQeoT0ybTKo9tDit/view?usp=sharing). Knowledge-Based Systems, 258, 109945.
+
+- **Dessì, D.**, Fenu, G., Marras, M., & Reforgiato Recupero, D. (2019). [**Bridging learning analytics and Cognitive Computing for Big Data classification in micro-learning video collections.**](https://www.sciencedirect.com/science/article/pii/S0747563218301092) Computers in Human Behavior, 92, (pp. 468-477). 
+
+- **Dessì, D.**, Cirrone, J., Reforgiato Recupero, D., & Shasha, D. (2018). [**SuperNoder: a tool to discover over-represented modular structures in networks.**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2350-8) BMC Bioinformatics, 19, 318. 
+
+- **Dessí, D.**, Osborne, F., Reforgiato Recupero, D., Buscaldi, D., & Motta, E. (2022). [CS-KG: A Large-Scale Knowledge Graph of Research Entities and Claims in Computer Science](https://drive.google.com/file/d/1-LLsUZpXcyv-lRcKCc4IR5X9fAEwtT6A/view?usp=sharing). In International Semantic Web Conference (pp. 678-696). Springer, Cham.
+
+
+
 ### Journals
+
+https://drive.google.com/file/d/1oYSQtaNhYoAoYpX_cPCp-aiU_M2CNjGt/view?usp=sharing
+
+- **Dessí, D.**, Osborne, F., Recupero, D. R., Buscaldi, D., & Motta, E. (2022). [SCICERO: A deep learning and NLP approach for generating scientific knowledge graphs in the computer science domain](https://drive.google.com/file/d/1_3In8l7Z6iIBye_WTQeoT0ybTKo9tDit/view?usp=sharing). Knowledge-Based Systems, 258, 109945.
+
+- Borrego, A., **Dessì, D.**, Hernández, I., Osborne, F., Recupero Reforgiato, D.  Ruiz, D., Buscaldi, Davide., & Motta, E. (2022). [Completing Scientific Facts in Knowledge Graphs of Research Concepts](https://drive.google.com/file/d/1oYSQtaNhYoAoYpX_cPCp-aiU_M2CNjGt/view?usp=sharing). IEEE Access. 
 
 - **Dessì, D.**, & Recupero Reforgiato, D. (2021). [**LexTex: a framework to generate lexicons using WordNet word senses in domain specific categories**](https://drive.google.com/file/d/1-1L4RajfSBHWEPgfk2dO6SV5F4ubrGNx/view?usp=sharing). Journal of Intelligent Information Systems, 1-24.
 
@@ -22,6 +40,8 @@ title: Publications
 
 
 ### Conference/Workshop Proceedings
+
+- **Dessí, D.**, Osborne, F., Reforgiato Recupero, D., Buscaldi, D., & Motta, E. (2022). [CS-KG: A Large-Scale Knowledge Graph of Research Entities and Claims in Computer Science](https://drive.google.com/file/d/1-LLsUZpXcyv-lRcKCc4IR5X9fAEwtT6A/view?usp=sharing). In International Semantic Web Conference (pp. 678-696). Springer, Cham.
 
 - Hoppe, F., **Dessì, D.**, & Sack, H. (2021). [**Understanding Class Representations: An Intrinsic Evaluation of Zero-Shot Text Classification**](http://ceur-ws.org/Vol-3034/paper8.pdf). In Proceedings of the Workshop on Deep Learning for Knowledge Graphs (DL4KG@ ISWC2021). In CEUR Workshop Proceedings (vol. 3034).
 
