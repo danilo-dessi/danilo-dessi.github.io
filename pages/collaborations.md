@@ -24,54 +24,16 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 ## People
 
-- [**Mehwish Alam**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam), PostDoc / Senior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)
-
-- [**Russa Biswas**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-russa-biswas), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
-
-- [**Davide Buscaldi**](https://sites.google.com/site/davidebuscaldi/), Associate Professor at the University of Paris 13 (France).
-
-- [**Jacopo Cirrone**](https://www.linkedin.com/in/jacopo-cirrone-00b78755), Ph.D. candidate at the Courant Institute of Mathematical Science of the New York University (U.S.A.).
-
-- [**Emanuele Concas**](https://github.com/conema/), Researcher at the University of Cagliari (Italy).
-
-- [**Sergio Consoli**](http://stlab.istc.cnr.it/stlab/staff/sergio-consoli/), Scientific Project Officer at Joint Research Centre of the European Comission (Italy).
-
-- [**Mauro Dragoni**](https://it.linkedin.com/in/maurodragoni), Researcher at the Fondazione Bruno Kessler (Italy).
-
-- [**Gianni Fenu**](http://people.unica.it/giannifenu/), Full Professor at the University of Cagliari (Italy).
-
-- [**Genet Asefa Gesese**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
-
-- [**Fabian Hoppe**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
-
-- [**Mirko Marras**](https://www.mirkomarras.com/), Researcher at the University of Cagliari (Italy).
-
-- [**Enrico Motta**](http://people.kmi.open.ac.uk/motta/), Full Professor at the Knowledge Media Institute of The Open University (UK).
-
-- [**Francesco Osborne**](http://kmi.open.ac.uk/people/member/francesco-osborne), Research Fellow at the Knowledge Media Institute of The Open University (UK).
-
-- [**Zahra Rezaie**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-zahra-rezaie), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany) 
-
-- [**Diego Reforgiato Recupero**](http://people.unica.it/diegoreforgiato/), Associate Professor at the University of Cagliari (Italy).
-
-- [**Harald Sack**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack), Full Professor at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)
-
-- [**Dennis Shasha**](https://cs.nyu.edu/shasha/), Full Professor at the Courant Institute of Mathematical Sciences of the New York University (U.S.A.).
-
-- [**Tabea Tietz**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-tabea-tietz), Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)  
-
-- [**Rima Türker**](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-rima-tuerker), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)
-
-- [**Oleksandra Vsesviatska**](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering#staff), PhD Student / Junior Researcher at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB). (Germany)  
-
+Mehwish Alam - Simone Angioni - Agustín Borrego - Davide Buscaldi - Jacopo Cirrone - Emanuele Concas - Sergio Consoli - Stefan Dietz - Dimitar Dimitrov - Mauro Dragoni - Gianni Fenu - Inma Hernández - Hajira Jabeen - Mirko Marras - Antonello Meloni - Enrico Motta - Francesco Osborne - Diego Reforgiato Recupero - Harald Sack - Dennis Shasha - Rima Türker
 
 ## Program Committee 
+- SciK workshop at The Web Conference (2021-2022)
 
-- ISWC Research Track (2020 - )
+- ISWC Research Track (2020 - 2021)
 
-- ACM SAC Knowledge and Language Processing track (2019 - )
+- ACM SAC Knowledge and Language Processing track (2019 - 2022)
 
-- Clic-it conference (2019 - )
+- Clic-it conference (2019 - 2021)
 
 - Semantics EU conference P&D track (2019-2020)
 
@@ -79,7 +41,7 @@ The **Scholarly Knowledge Modelling, Mining and sense Making (SKM<sup>3</sup>)**
 
 - SKG workshop at TPDL (2020)
 
-- Bias workshop at ECIR (2020)
+- Bias workshop at ECIR (2020-2022)
 
 
 ## Reviewing activity for International Conferences and Journals
