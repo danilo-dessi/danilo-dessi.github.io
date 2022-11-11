@@ -28,7 +28,7 @@ I was also visiting student of the Professor [Enrico Motta](http://people.kmi.op
 
 From January 2020 to November 2021 I was working as PostDoc / Senior Researcher at [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/) within the [FIZ ISE](https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering) team with the Professor [Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack).
 
-From October 2021 to September 2022, I was Researcher at the University of Cagliari where I was Professor of the course of Computer Architecture course within the B.Sc. on Applied Informatics and Data Analytics. 
+From October 2021 to September 2022, I was Researcher at the University of Cagliari where I was Professor of the Computer Architecture course within the B.Sc. on [Applied Informatics and Data Analytics](https://www.unica.it/unica/en/crs_60_79.page). 
 
 
 
